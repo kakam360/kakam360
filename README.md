@@ -1,10 +1,8 @@
-https://codepen.io/shubniggurath/pen/NXGbBo
+[![MasterHead}(https://codepen.io/shubniggurath/pen/NXGbBo)
 <h1 align="center">I'm Isaac Johnson</h1>
 <h3 align="center">Results-oriented Full Stack Developer with a strong background in designing and implementing innovative web applications. Proficient in both front-end and back-end development, with expertise in optimizing performance, functionality, and user experience. Demonstrated ability to translate business requirements into technical solutions that drive company success. Adept at collaborating with crossfunctional teams to deliver high-quality software solutions. Seeking an opportunity to contribute technical expertise and creative problem-solving skills in a dynamic development environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakam360&label=Profile%20views&color=0e75b6&style=flat" alt="kakam360" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kakam360" alt="kakam360" /></a> </p>
 
 - 🌱 I am currently learning **JEST and Mocha**
 
@@ -28,5 +26,3 @@ https://codepen.io/shubniggurath/pen/NXGbBo
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakam360&show_icons=true&locale=en&layout=compact" alt="kakam360" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kakam360&show_icons=true&locale=en" alt="kakam360" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakam360&" alt="kakam360" /></p>
