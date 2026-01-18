@@ -1,16 +1,4 @@
-Hi 👋 My name is ISAAC JOHNSON
-==============================
 
-Fullstack Web Developer
------------------------
-
-Results-oriented Full Stack Developer with a strong background in designing and implementing innovative web applications. Proficient in both front-end and back-end development, with expertise in optimizing performance, functionality, and user experience. Demonstrated ability to translate business requirements into technical solutions that drive company success. Adept at collaborating with cross functional teams to deliver high-quality software solutions. Seeking an opportunity to contribute technical expertise and creative problem-solving skills in a dynamic development environment
-
-* 🌍  I'm based in Abuja NG
-* ✉️  You can contact me at [kakami.wav@gmail.com](mailto:kakami.wav@gmail.com)
-* 🧠  I'm learning I am currently learning Software Development
-
-### Skills
 
 
 <p align="left">
